@@ -13,4 +13,11 @@ ipt <- installed.packages() %>%
 
 ipt  
 
+#' ---
+#' output: github_document
+#' ---
+#' 
 
+#' ---
+#' #' date: "`r format(Sys.Date()`"
+#' ---
