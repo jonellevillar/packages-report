@@ -2,7 +2,7 @@ library(tidyverse)
 
 library(here)
 
-libPaths()
+.libPaths()
 
 installed.packages() %>% 
   as_tibble()
