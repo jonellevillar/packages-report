@@ -19,5 +19,5 @@ ipt
 #' 
 
 #' ---
-#' #' date: "`r format(Sys.Date()`"
+#' #' date: "`r format(Sys.Date())`"
 #' ---
