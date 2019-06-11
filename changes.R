@@ -1,3 +1,9 @@
+#' ---
+#' date: "`r format(Sys.Date())`"
+#' output: github_document
+#' ---
+
+
 library(tidyverse)
 
 library(here)
@@ -13,11 +19,5 @@ ipt <- installed.packages() %>%
 
 ipt  
 
-#' ---
-#' output: github_document
-#' ---
-#' 
 
-#' ---
-#' #' date: "`r format(Sys.Date())`"
-#' ---
+
