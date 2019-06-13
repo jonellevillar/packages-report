@@ -13,3 +13,5 @@ A local change.
 This is a line from RStudio.
 
 Line added from GitHub.
+
+Adding another line from RStudio - the poppies are beautiful here. 
