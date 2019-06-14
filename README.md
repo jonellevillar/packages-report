@@ -1,15 +1,3 @@
 # packages-report
-A line I changed.
+I wanted to go back to what we were talking about.
 
-Here is where I make a mistake. 
-
-Here's a crazy idea. 
-
-Here is a wild idea. 
-A fantastic experiment I conducted in a branch. Great Idea. 
-
-A local change.
-
-This is a line from RStudio.
-
-Line added from GitHub.
